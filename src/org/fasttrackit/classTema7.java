@@ -45,5 +45,8 @@ public class classTema7 {
         System.out.println(sticlaUnu.drink(0.5));
         System.out.println(sticlaUnu.drink(2));
         System.out.println("Your left liquid is: " + sticlaUnu.getAvailableLiquid());
+
+
+        
     }
 }
